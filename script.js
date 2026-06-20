@@ -13,5 +13,5 @@
             }
 
             // Update placeholder text dynamically with greeting
-            welcomeHeading.innerHTML = `${greeting}, I'm <span> Sukhmandeep Singh</span>`;
+            welcomeHeading.innerHTML = `${greeting}, I'm <br> <span> Sukhmandeep Singh</span>`;
         });
