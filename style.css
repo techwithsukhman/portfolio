@@ -287,3 +287,13 @@
             margin: 0.75rem;
             transition: background-color 0.3s, transform 0.2s;
         }
+
+        #github:hover{
+             background-color: #0d6342;
+             transform: translateY(-2px);
+        }
+
+         #Linkdin:hover{
+             background-color: #667f99;
+             transform: translateY(-2px);
+         }
